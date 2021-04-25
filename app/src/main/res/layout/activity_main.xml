@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    >
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/q_1"
+        android:text="QUESTION 01"
+        android:layout_margin="10dp"
+        android:background="@color/purple_500"
+        android:textColor="#ffffff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/q_2"
+        android:text="QUESTION 02"
+        android:layout_margin="10dp"
+        android:background="@color/purple_500"
+        android:textColor="#ffffff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/q_3"
+        android:text="QUESTION 03"
+        android:layout_margin="10dp"
+        android:background="@color/purple_500"
+        android:textColor="#ffffff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/q_4"
+        android:text="QUESTION 04"
+        android:layout_margin="10dp"
+        android:background="@color/purple_500"
+        android:textColor="#ffffff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/q_5"
+        android:text="QUESTION 05"
+        android:layout_margin="10dp"
+        android:background="@color/purple_500"
+        android:textColor="#ffffff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/q_6"
+        android:text="QUESTION 06"
+        android:layout_margin="10dp"
+        android:background="@color/purple_500"
+        android:textColor="#ffffff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/q_7"
+        android:text="QUESTION 07"
+        android:layout_margin="10dp"
+        android:background="@color/purple_500"
+        android:textColor="#ffffff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/q_8"
+        android:text="QUESTION 08"
+        android:layout_margin="10dp"
+        android:background="@color/purple_500"
+        android:textColor="#ffffff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/q_9"
+        android:text="QUESTION 09"
+        android:layout_margin="10dp"
+        android:background="@color/purple_500"
+        android:textColor="#ffffff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/q_10"
+        android:text="QUESTION 10"
+        android:layout_margin="10dp"
+        android:background="@color/purple_500"
+        android:textColor="#ffffff"/>
+
+
+</LinearLayout>
